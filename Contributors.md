@@ -371,6 +371,7 @@
 - [Shyam Jalan](https://github.com/shyamjalan)
 - [Priyanshu Chand](https://github.com/PriyanshuChand)
 - [Prasad Naik] (https://github.com/naik24)
+  [minjunkim3](https://github.com/minjunKim3)
 - Karin
 - Alessandro Garcia
 - [Quincy Miller] (https://github.com/QuincyMillerDev)
